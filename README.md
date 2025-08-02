@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bill (Patcharaprapa Khamkhiaw) 👋</h1>
 
 - 🎓 Graduate Bachelor's from MJU/BA in Business Information Systems (Graduate Year: 2019, GPA: 3.16)
-- 🎓 Graduate Master's from CMU/CAMT in  Software Engineering (Graduate Year: 2025, GPA : 3.58)
+- 🎓 Graduate Master's from CMU/CAMT in  Software Engineering (Graduate Year: 2025, GPA: 3.58)
 - 🫡 I completed my university with this [project](https://github.com/BILL-THESIS/origin-source-code-bill), which supports project managers in estimating code modification time by highlighting the most impactful code smells, aiming to reduce future maintenance effort
 - ⚒  A Software Engineer (mostly working on  reverse engineering, database, system analysis, and architecture design)
 - ⚡ Now I am learning and practicing
