@@ -5,7 +5,7 @@
 - 🫡 I completed my university with this [project](https://github.com/BILL-THESIS/origin-source-code-bill), which supports project managers in estimating code modification time by highlighting the most impactful code smells, aiming to reduce future maintenance effort
 - ⚒  A Software Engineer (mostly working on  reverse engineering, database, system analysis, and architecture design)
 - ⚡ Now I am learning and practicing
--  📫  Reach me: **⟪patcharaprapa.khamkhiaw@gmail.com⟫** | [LinkedIn](⟪https://www.linkedin.com/in/patcharaprapa-khamhiaw-2032a8328/⟫) |
+-  📫  Reach me: **⟪patcharaprapa.khamkhiaw@gmail.com⟫** | [LinkedIn](https://www.linkedin.com/in/patcharaprapa-khamhiaw-2032a8328/) |
 
 #### My skill
 
